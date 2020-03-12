@@ -210,7 +210,7 @@ public class Managementul_Pacientilor_GUI extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        Table1.setFont(new java.awt.Font("Dialog", 0, 16)); // NOI18N
+        Table1.setFont(new java.awt.Font("Dialog", 0, 18));
         Table1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {null, null, null, null, null, null, null, null},
